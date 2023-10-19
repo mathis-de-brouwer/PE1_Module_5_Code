@@ -1,5 +1,5 @@
-/*function naam(parameterlijst){
-    codeblok;
+/*function name(parameterlist){
+    code;
 }
 */
 
